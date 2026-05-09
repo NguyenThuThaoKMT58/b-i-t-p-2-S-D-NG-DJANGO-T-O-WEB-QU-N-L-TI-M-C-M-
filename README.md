@@ -1,8 +1,11 @@
 # b-i-t-p-2-S-D-NG-DJANGO-T-O-WEB-QU-N-L-TI-M-C-M-
 
 1. TỔ CHỨC CSDL CHO HỆ THỐNG QUẢN LÝ TIỆM CẦM ĐỒ: viết tay ra giấy, lấy điện thoại chụp lại, upload ảnh lên github (đã nói về các nghiệp vụ trên lớp, ghi bảng)
+
+   <img width="538" height="713" alt="image" src="https://github.com/user-attachments/assets/98f4ccaa-db2a-446a-84ee-81bbc9836ed5" />
+
    
-2. SỬ DỤNG DOCKER TRÊN UBUNTU ĐỂ:
+3. SỬ DỤNG DOCKER TRÊN UBUNTU ĐỂ:
 
 Mariadb : chứa csdl của hệ thống này
 
