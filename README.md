@@ -75,5 +75,49 @@ sử dụng cloudflare tunnel để public kết quả lên 1 sub-domain => ch�
 
 <img width="1332" height="100" alt="image" src="https://github.com/user-attachments/assets/e8ebcad8-f399-481f-abc2-b6277b6cfcb2" />
 
+7. Sửa settings.py : thay đoạn databases cũ bằng databases mới 
 
-7. 
+   <img width="891" height="751" alt="image" src="https://github.com/user-attachments/assets/cd73152f-f14e-4453-87d4-cbba023562fc" />
+
+- installed_apps và allowed_hosts sửa thành
+  
+<img width="503" height="395" alt="image" src="https://github.com/user-attachments/assets/25b21647-6de0-4084-8ba3-010a1b620cf0" />
+
+8. Tạo Model
+
+   <img width="907" height="755" alt="image" src="https://github.com/user-attachments/assets/3aea69c8-e54e-4cdd-9262-c4ae12d7b418" />
+<img width="737" height="605" alt="image" src="https://github.com/user-attachments/assets/5a9eca86-cf95-4837-863d-14373c197f89" />
+
+9. Tạo và đăng kí admin
+
+    <img width="1287" height="207" alt="image" src="https://github.com/user-attachments/assets/47e921f0-eb8d-4961-9a67-c821aecaa3ac" />
+
+<img width="1027" height="442" alt="image" src="https://github.com/user-attachments/assets/2bfd87a9-fa0d-4209-b9e2-5bb5001f7621" />
+
+truy cập http://192.168.1.203:8000/admin
+
+_ có giao diện đăng nhập như sau :
+
+<img width="947" height="742" alt="image" src="https://github.com/user-attachments/assets/55d1651f-7b37-4fef-9544-8af65d7bfb1f" />
+
+- Sau khi đăng nhập :
+
+  <img width="948" height="983" alt="image" src="https://github.com/user-attachments/assets/e8f4047b-d4b7-4655-aeb0-cd26110ab700" />
+
+10. Sửa giao diện cho web
+
+- Tạo file HTML trong thư mục templates xới nội dung :
+
+  <img width="827" height="880" alt="image" src="https://github.com/user-attachments/assets/ca1a78bf-de45-4ce4-b9b9-e2a2f3ed07af" />
+
+- Tạo file views.py
+
+  <img width="737" height="617" alt="image" src="https://github.com/user-attachments/assets/02e01d6c-97da-4577-87ed-9b6b71062469" />
+  
+- urls_app
+
+  <img width="980" height="480" alt="image" src="https://github.com/user-attachments/assets/34a934f6-be3b-46f9-a9af-9e4e2532357b" />
+
+- urls chính
+
+  <img width="1025" height="590" alt="image" src="https://github.com/user-attachments/assets/e40297ac-5ead-4ac1-bddb-301aeffaa26a" />
