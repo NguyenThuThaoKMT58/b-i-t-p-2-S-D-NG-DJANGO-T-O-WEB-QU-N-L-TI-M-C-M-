@@ -5,7 +5,7 @@
    <img width="538" height="713" alt="image" src="https://github.com/user-attachments/assets/98f4ccaa-db2a-446a-84ee-81bbc9836ed5" />
 
    
-3. SỬ DỤNG DOCKER TRÊN UBUNTU ĐỂ:
+2. SỬ DỤNG DOCKER TRÊN UBUNTU ĐỂ:
 
 Mariadb : chứa csdl của hệ thống này
 
