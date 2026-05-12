@@ -130,4 +130,3 @@ _ có giao diện đăng nhập như sau :
   <img width="946" height="677" alt="image" src="https://github.com/user-attachments/assets/d7e42929-ab9d-4022-81f1-1c32d675de64" />
 
 
-Em đang bị lỗi cloudflare tunnel , em đang tìm cách khắc phục ạ
