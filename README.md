@@ -62,3 +62,7 @@ sử dụng cloudflare tunnel để public kết quả lên 1 sub-domain => ch�
 -Vào phpMyAdmin kiểm tra khóa ngoại
 
 <img width="873" height="771" alt="image" src="https://github.com/user-attachments/assets/9e56d65a-b4c1-4e5a-b573-03841cde314d" />
+
+- sử dụng cloudflare tunnel để public kết quả lên 1 sub-domain : https://debt.thao04.io.vn/
+
+  <img width="745" height="453" alt="image" src="https://github.com/user-attachments/assets/97fcee95-e470-44fe-933c-4e5deccd57de" />
